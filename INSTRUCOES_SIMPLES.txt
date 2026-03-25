@@ -1,0 +1,110 @@
+SISTEMA DINÂMICO DE MAPA - RN
+==================================================
+
+O QUE FOI FEITO:
+- Sistema que lê dados do Excel
+- Cria filtros automaticamente por cada coluna
+- Mostra dados no mapa do Rio Grande do Norte
+- Atualiza em tempo real quando você muda filtros
+
+COMO USAR:
+==================================================
+
+OPÇÃO 1 - Começar com Dados de Teste
+-------------------------------------
+1. Abra Command Prompt (cmd)
+2. Digite:
+   python create_sample_data_dynamic.py
+3. Pressione ENTER
+4. Depois digite:
+   python run_dashboard_cli.py
+5. Pressione ENTER
+6. Navegador abre automaticamente em http://localhost:8050
+
+OPÇÃO 2 - Clicar um Arquivo (Mais Fácil)
+-----------------------------------------
+1. Localize o arquivo: run_dashboard.bat
+2. Clique 2 vezes
+3. Pronto! Dashboard abre no navegador
+
+COMO USAR O DASHBOARD:
+==================================================
+
+1. FILTRAR:
+   - Use os dropdowns na parte superior
+   - Exemplo: tipo_servico = "Proteção Integrada"
+   - Clique em "Sim" ou outro valor
+
+2. VER MAPA:
+   - Os municípios aparecem com cores
+   - Quanto maior o círculo, mais dados tem
+   - Passe o mouse para ver detalhes
+
+3. FAZER ANÁLISES:
+   - Veja a tabela "Distribuição por Tipo"
+   - Mostra automaticamente as combinações
+   - Exemplo: Familiar x Institucional
+
+4. VER DADOS:
+   - Tabela mostra todos os registros
+   - Gráfico mostra quantidade por município
+
+COMO USAR COM SEUS DADOS:
+==================================================
+
+1. Prepare seu Excel com estas colunas:
+   - municipio (nome da cidade)
+   - tipo_servico (tipo de serviço)
+   - tipo_acolhimento (familiar/institucional)
+   - natureza (público/privado)
+   - quantidade_beneficiarios (número)
+   - Qualquer outra coluna que quiser!
+
+2. Salve como:
+   C:\Users\User\PycharmProjects\sasha\data\dados_servicos_rn.xlsx
+
+3. Execute:
+   python run_dashboard_cli.py
+
+4. Seus filtros aparecem automaticamente!
+
+PERGUNTAS QUE AGORA VOCÊ CONSEGUE RESPONDER:
+==================================================
+
+1. "Em quantas Comarcas a Proteção Integrada passou?"
+   → Filtro: tipo_servico = "Proteção Integrada"
+   → Veja no mapa quantas localidades aparecem
+
+2. "Distribuição dos acolhimentos por comarca?"
+   → Filtro: tipo_servico = "Acolhimento"
+   → Veja a tabela com Familiar / Institucional
+
+3. "Quais municípios têm comitê de cuidados?"
+   → Filtro: comite_cuidados = "Sim"
+   → Mapa mostra só os que têm
+
+Se PRECISAR DE AJUDA:
+==================================================
+
+Arquivo: GUIA_DADOS_REAIS.md
+ - Explica como formatar seu Excel
+
+Arquivo: README_SISTEMA_DINAMICO.md
+ - Manual completo do sistema
+
+Arquivo: DASHBOARD_DINAMICO.md
+ - Instruções detalhadas e exemplos
+
+COMEÇAR AGORA:
+==================================================
+
+1. Abra o Command Prompt
+2. Vá para a pasta: cd C:\Users\User\PycharmProjects\sasha
+3. Digite: python run_dashboard_cli.py
+4. Pressione ENTER
+5. Navegador abre automaticamente
+
+OU simplesmente clique 2 vezes em: run_dashboard.bat
+
+==================================================
+Sistema pronto! Aproveite! 🗺️

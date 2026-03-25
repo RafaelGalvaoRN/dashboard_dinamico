@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Paulo",
+        "radius_km": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6333,
+          -23.5505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campinas",
+        "radius_km": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0616,
+          -22.9068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ribeirão Preto",
+        "radius_km": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8105,
+          -21.1925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santos",
+        "radius_km": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3334,
+          -23.9608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorocaba",
+        "radius_km": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4582,
+          -23.5006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guarulhos",
+        "radius_km": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4917,
+          -23.4729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osasco",
+        "radius_km": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7919,
+          -23.5309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mogi Cruzes",
+        "radius_km": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1858,
+          -23.5014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salto",
+        "radius_km": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.292,
+          -23.1947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piracicaba",
+        "radius_km": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.65,
+          -22.7297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tatuapé",
+        "radius_km": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55,
+          -23.5555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zona Leste",
+        "radius_km": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.45,
+          -23.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sumaré",
+        "radius_km": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.261,
+          -22.826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Araraquara",
+        "radius_km": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1758,
+          -21.7945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praia Grande",
+        "radius_km": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4028,
+          -24.0093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itu",
+        "radius_km": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2986,
+          -23.2653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arujá",
+        "radius_km": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3119,
+          -23.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carapicuíba",
+        "radius_km": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.837,
+          -23.6503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suzano",
+        "radius_km": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3056,
+          -23.5381
+        ]
+      }
+    }
+  ]
+}

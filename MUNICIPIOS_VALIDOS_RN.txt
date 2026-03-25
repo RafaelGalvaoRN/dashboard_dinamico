@@ -1,0 +1,157 @@
+LISTA COMPLETA DE MUNICÍPIOS DE RN
+===================================
+
+Copie os nomes exatamente como estão abaixo para seu arquivo Excel:
+
+Natal
+Parnamirim
+São Gonçalo do Amarante
+Extremoz
+Macaíba
+Vera Cruz
+São José de Mipibu
+Monte Alegre
+Nísia Floresta
+Ceará-Mirim
+Maxaranguape
+Rio do Fogo
+São Miguel de Touros
+Touros
+Pedra Grande
+João Câmara
+Bento Fernandes
+Parazinho
+Poço Branco
+Pureza
+Taipu
+Santa Maria
+Arês
+Goianinha
+Tibau do Sul
+Senador Georgino Avelino
+Vila Flor
+Canguaretama
+Baía Formosa
+Espírito Santo
+Pedro Velho
+Montanhas
+Nova Cruz
+Passa e Fica
+Santo Antônio
+Boa Saúde
+Lagoa de Pedras
+Lagoa Salgada
+Várzea
+Jundiá
+Serra Caiada
+São Paulo do Potengi
+Brejinho
+Serra de São Bento
+Tangará
+Monte das Gameleiras
+Coronel Ezequiel
+Lagoa d'Anta
+São Bento do Trairí
+São José do Campestre
+Lajes Pintadas
+Sítio Novo
+Campo Redondo
+Cerro Corá
+Lagoa Nova
+Santa Cruz
+Açu
+Alto do Rodrigues
+Carnaubais
+Ipanguaçu
+Itajá
+Pendências
+Porto do Mangue
+Afonso Bezerra
+Angicos
+Fernando Pedroza
+Lajes
+Riachuelo
+Santana do Matos
+São Rafael
+Jardim de Angicos
+Bodó
+São Vicente
+Macau
+Galinhos
+Guamaré
+Caiçara do Norte
+São Bento do Norte
+Caiçara do Rio do Vento
+Currais Novos
+Acari
+Cruzeta
+Carnaúba dos Dantas
+Parelhas
+Equador
+Santana do Seridó
+Tenente Laurentino Cruz
+Florânia
+Caicó
+Jardim de Piranhas
+Jardim do Seridó
+Ouro Branco
+São João do Sabugi
+São Fernando
+Timbaúba dos Batistas
+Ipueira
+Serra Negra do Norte
+São José do Seridó
+Jucurutu
+Triunfo Potiguar
+Serra de Santana
+Mossoró
+Areia Branca
+Tibau
+Grossos
+Baraúna
+Upanema
+Governador Dix-Sept Rosado
+Augusto Severo
+Apodi
+Felipe Guerra
+Itaú
+Rafael Godeiro
+Severiano Melo
+Caraúbas
+Janduís
+Campo Grande
+Messias Targino
+Olho d'Água do Borges
+Rodolfo Fernandes
+Almino Afonso
+Lucrécia
+Patu
+Martins
+Portalegre
+Tabuleiro Grande
+Umarizal
+Pau dos Ferros
+Alexandria
+Antônio Martins
+Doutor Severiano
+Encanto
+Francisco Dantas
+Frutuoso Gomes
+José da Penha
+Luís Gomes
+Major Sales
+Marcelino Vieira
+Paraná
+Pilões
+Rafael Fernandes
+Riacho de Santana
+São Francisco do Oeste
+São Miguel
+Tenente Ananias
+Venha-Ver
+Viçosa
+Água Nova
+Coronel João Pessoa
+
+---
+TOTAL: 152 municípios
